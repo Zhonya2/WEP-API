@@ -1,0 +1,14 @@
+/Users/yevhenii/MyApp/bin/Debug/net9.0/MyApp
+/Users/yevhenii/MyApp/bin/Debug/net9.0/MyApp.deps.json
+/Users/yevhenii/MyApp/bin/Debug/net9.0/MyApp.runtimeconfig.json
+/Users/yevhenii/MyApp/bin/Debug/net9.0/MyApp.dll
+/Users/yevhenii/MyApp/bin/Debug/net9.0/MyApp.pdb
+/Users/yevhenii/MyApp/obj/Debug/net9.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yevhenii/MyApp/obj/Debug/net9.0/MyApp.AssemblyInfoInputs.cache
+/Users/yevhenii/MyApp/obj/Debug/net9.0/MyApp.AssemblyInfo.cs
+/Users/yevhenii/MyApp/obj/Debug/net9.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/yevhenii/MyApp/obj/Debug/net9.0/MyApp.dll
+/Users/yevhenii/MyApp/obj/Debug/net9.0/refint/MyApp.dll
+/Users/yevhenii/MyApp/obj/Debug/net9.0/MyApp.pdb
+/Users/yevhenii/MyApp/obj/Debug/net9.0/MyApp.genruntimeconfig.cache
+/Users/yevhenii/MyApp/obj/Debug/net9.0/ref/MyApp.dll

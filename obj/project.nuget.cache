@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LSgox2HQ568=",
+  "success": true,
+  "projectFilePath": "/Users/yevhenii/Socket massenger копія/MyApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/yevhenii/.nuget/packages/htmlagilitypack/1.12.3/htmlagilitypack.1.12.3.nupkg.sha512"
+  ],
+  "logs": []
+}

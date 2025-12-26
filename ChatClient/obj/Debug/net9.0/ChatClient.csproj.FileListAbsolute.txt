@@ -1,0 +1,14 @@
+/Users/yevhenii/Documents/Socket massenger /ChatClient/bin/Debug/net9.0/ChatClient
+/Users/yevhenii/Documents/Socket massenger /ChatClient/bin/Debug/net9.0/ChatClient.deps.json
+/Users/yevhenii/Documents/Socket massenger /ChatClient/bin/Debug/net9.0/ChatClient.runtimeconfig.json
+/Users/yevhenii/Documents/Socket massenger /ChatClient/bin/Debug/net9.0/ChatClient.dll
+/Users/yevhenii/Documents/Socket massenger /ChatClient/bin/Debug/net9.0/ChatClient.pdb
+/Users/yevhenii/Documents/Socket massenger /ChatClient/obj/Debug/net9.0/ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yevhenii/Documents/Socket massenger /ChatClient/obj/Debug/net9.0/ChatClient.AssemblyInfoInputs.cache
+/Users/yevhenii/Documents/Socket massenger /ChatClient/obj/Debug/net9.0/ChatClient.AssemblyInfo.cs
+/Users/yevhenii/Documents/Socket massenger /ChatClient/obj/Debug/net9.0/ChatClient.csproj.CoreCompileInputs.cache
+/Users/yevhenii/Documents/Socket massenger /ChatClient/obj/Debug/net9.0/ChatClient.dll
+/Users/yevhenii/Documents/Socket massenger /ChatClient/obj/Debug/net9.0/refint/ChatClient.dll
+/Users/yevhenii/Documents/Socket massenger /ChatClient/obj/Debug/net9.0/ChatClient.pdb
+/Users/yevhenii/Documents/Socket massenger /ChatClient/obj/Debug/net9.0/ChatClient.genruntimeconfig.cache
+/Users/yevhenii/Documents/Socket massenger /ChatClient/obj/Debug/net9.0/ref/ChatClient.dll
